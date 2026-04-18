@@ -21,3 +21,9 @@ On linux terminal:
 - use curl commands in another terminal:
 - curl http://localhost:8080/hello
 - curl http://localhost:8080/hello
+
+
+
+## Ressources
+
+- https://medium.com/@techworldthink/building-a-rest-api-in-c-using-crow-6bb81992c12b
