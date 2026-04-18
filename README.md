@@ -21,7 +21,9 @@ On linux terminal:
 - use curl commands in another terminal:
 - curl http://localhost:8080/hello
 - curl http://localhost:8080/hello
-
+- curl -X POST http://localhost:8080/api/echo \
+     -H "Content-Type: application/json" \
+     -d '{"name": "C++ Developer"}'
 
 
 ## Ressources
