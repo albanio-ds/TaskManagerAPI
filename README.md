@@ -2,6 +2,7 @@
 
 ## Goals
 Build a local Task Manager RestAPI 
+Learning to use crow, curl, restAPI
 
 ## TODO
 
@@ -12,3 +13,11 @@ Build a local Task Manager RestAPI
 - [ ] GET /tasks/{id}
 - [ ] PUT /tasks/{id}
 - [ ] DELETE /tasks/{id}
+
+## Test
+On linux terminal:
+run compile.sh 
+run a.out
+use curl commands in another terminal:
+curl http://localhost:8080/hello
+curl http://localhost:8080/hello
