@@ -16,8 +16,8 @@ Learning to use crow, curl, restAPI
 
 ## Test
 On linux terminal:
-run compile.sh 
-run a.out
-use curl commands in another terminal:
-curl http://localhost:8080/hello
-curl http://localhost:8080/hello
+- run compile.sh 
+- run a.out
+- use curl commands in another terminal:
+- curl http://localhost:8080/hello
+- curl http://localhost:8080/hello
